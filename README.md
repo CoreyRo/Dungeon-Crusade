@@ -8,7 +8,7 @@
 <br>
 
 ## Description
-Unnamed Turnbased Game is a single and multiplayer browser game. The player encounters randomly generated and scripted enemies in single player. The player’s progress is saved in a player object in the database. In multiplayer, you can challenge other players with your saved player object against their saved player object. 
+Turn based browser game. The player encounters randomly generated and scripted enemies in single player. The player’s progress is saved in a player object in the database. In multiplayer, you can challenge other players with your saved player object against their saved player object. 
 
 
 ---
@@ -37,9 +37,6 @@ Unnamed Turnbased Game is a single and multiplayer browser game. The player enco
     - [x] combat/xp
     - [x] lvl up/stats
     - [x] store
-- [ ] Presentation
-    - [ ] Slides/Demo
-    - [ ] Talking points
 
 ---
 <!-- TOC -->
